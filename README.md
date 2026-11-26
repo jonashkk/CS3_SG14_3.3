@@ -1,2 +1,2 @@
-# CS3_StudyGuide14_3.3_.
+# PARKING TICKET SYSTEM
 Developer A: Jonash Miguel Aidan Cobico Developer B: Glenn Raphael S. Morga
